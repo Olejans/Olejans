@@ -5,7 +5,8 @@ Welcome to this README file, my name's Oleg!
 Had a weird story with all my programming career, so i'll try to summarize it a bit:
 
 - Had HTML and CSS experience by summer IT-camp in Ukraine ["STEP Academy"](https://itstep.zp.ua/) (Turn translator on unless you know ukrainian)
-- Studying for Computer Engineer in college (WIP);
+- Studying for Computer Engineer in college;
+    - Second time (WIP);
 - Worked with Java via [Processing programm](https://processing.org/) (Had a group work at the end! I was programming a Tic-Tac-Toe part of the game. If the file is still alive, i can perhaps put it on repository!);
 - Studied C and C++ for... quarter of study year (Not enough, i know);
 - Studying Python in a [Pragmatic Industries company](https://pragmaticindustries.com/en/) (WIP)
